@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="045346af-4a52-4157-96f6-5a8ab4afb0c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seguimiento IV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompraBoletosTren/Asiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompraBoletosTren/Boleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompraBoletosTren/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompraBoletosTren/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompraBoletosTren/SistemaCompraBoletos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompraBoletosTren/Tren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompraBoletosTren/Vagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompraBoletosTren/Viaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio5/Pasajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio5/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio5/Vuelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio6/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio6/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gestionDeProductos/Inventario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gestionDeProductos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gestionDeProductos/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gestionDeProductos/ProductoPerecedero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salaDeCine/Asiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salaDeCine/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salaDeCine/Funcion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salaDeCine/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salaDeCine/Reserva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salaDeCine/Sala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salaDeCine/SistemaCine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sistemaDeCredito/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sistemaDeCredito/CreditoHipotecario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sistemaDeCredito/Propiedad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sistemaDeCredito/SistemaCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sistemaDeCredito/SolicitudCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sistemaDeCredito/credito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sistemaDeCredito/persona.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2khrwtQ1MDnX9ttTud87J35TYp7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FelipePajero.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SistemaCredito.executor": "Run",
+    "Application.ejercicio6.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/NICOLAS MORALES/Documents/Seguimiento IV/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.FelipePajero">
+    <configuration name="FelipePajero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FelipePajero" />
+      <module name="Seguimiento IV" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gestionDeProductos.Main" />
+      <module name="Seguimiento IV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gestionDeProductos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemaCredito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sistemaDeCredito.SistemaCredito" />
+      <module name="Seguimiento IV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sistemaDeCredito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio6.Main" />
+      <module name="Seguimiento IV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FelipePajero" />
+        <item itemvalue="Application.ejercicio6.Main" />
+        <item itemvalue="Application.SistemaCredito" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="045346af-4a52-4157-96f6-5a8ab4afb0c8" name="Changes" comment="" />
+      <created>1723746894878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723746894878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicio6/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
